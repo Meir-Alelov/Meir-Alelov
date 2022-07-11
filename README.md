@@ -1,16 +1,24 @@
 ### Hi there 👋
 
-<!--
-**Meir-Alelov/Meir-Alelov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about deploying innovative environmental tech to catalyze a shift in the world for a more sustainable, harmonious, and resilient future. 
 
-Here are some ideas to get you started:
+I'm an exceptionally curious, pragmatic, forever-student who has a knack for working on data-driven solutions to environmental issues. With the industry experience and outlook of a servant leader, the technical skills of a data scientist, and the non-violent communication of a yoga teacher, I lead successful teams of incredible people in assessing the scientific rigor and scalability of potential environmental technology investments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+🔭 I’m currently working on optimizing computer vision for environmental technologies.
+
+🌱 I’m currently learning more about deep learning models for time series forecasting.
+
+👯 I’m looking to collaborate on various deep learning projects.
+
+💬 Ask me about my permaculture garden! 
+
+📫 How to reach me: meir@alelov.com
+
+😄 Pronouns: He/Him
+
+⚡ Fun fact: When I'm not teaching yoga or uncovering ancient Vedic secrets, you can find me riding my Harley Iron 883, organizing beach cleanups, reading up on Black History, dispersed camping, playing the sax, permaculture farming, surfing, and hiking. 
+
+My goal is to live sustainably, off-grid, with a mindful footprint; this lifestyle is reflected in my work.
