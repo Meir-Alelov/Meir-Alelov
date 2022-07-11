@@ -30,3 +30,9 @@ I'm an exceptionally curious, pragmatic, forever-student who has a knack for wor
 ⚡ Fun fact: When I'm not teaching yoga or uncovering ancient Vedic secrets, you can find me riding my Harley Iron 883, organizing beach cleanups, reading up on Black History, dispersed camping, playing the sax, permaculture farming, surfing, and hiking. 
 
 My goal is to live sustainably, off-grid, with a mindful footprint; this lifestyle is reflected in my work.
+
+
+
+![Meir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Meir-Alelov&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meir-Alelov)](https://github.com/Meir-Alelov)
