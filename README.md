@@ -1,4 +1,6 @@
-### Hi there 👋
+![Green and White Abstract Welcome to Our Class Google Classroom Header](https://user-images.githubusercontent.com/100248559/178343538-1cfe4f14-2316-448e-9dea-05505dffd093.png)
+
+## Hello, hello! 👋
 
 I'm passionate about deploying innovative environmental tech to catalyze a shift in the world for a more sustainable, harmonious, and resilient future. 
 
