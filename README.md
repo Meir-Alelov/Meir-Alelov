@@ -34,3 +34,4 @@ My goal is to live sustainably, off-grid, with a mindful footprint; this lifesty
 
 
 ![Meir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Meir-Alelov&show_icons=true)
+
