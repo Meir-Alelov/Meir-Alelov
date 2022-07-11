@@ -1,6 +1,6 @@
 ![Green and White Abstract Welcome to Our Class Google Classroom Header](https://user-images.githubusercontent.com/100248559/178343538-1cfe4f14-2316-448e-9dea-05505dffd093.png)
 
-Leader | Data Scientist | Yogi
+# Leader | Data Scientist | Yogi
 
 ## Hello, hello! 👋
 
@@ -8,7 +8,7 @@ I'm passionate about deploying innovative environmental tech to catalyze a shift
 
 I hold a Bachelor of Science degree from Brandeis University in Neuroscience, as well as a Bachelor of Arts degree in Theater Arts.
 
-I'm an exceptionally curious, pragmatic, forever-student who has a knack for working on data-driven solutions to environmental issues. With the industry experience and outlook of a servant leader, the technical skills of a data scientist, and the non-violent communication of a yoga teacher, I lead successful teams of incredible people in assessing the scientific rigor and scalability of potential environmental technology investments.
+I'm an exceptionally curious, pragmatic, forever-student who has a knack for working on data-driven solutions to environmental issues. With the industry experience and outlook of a servant leader, the technical skills of a data scientist, and the non-violent, trauma-informed communication of a yoga teacher, I lead successful teams of incredible people in assessing the scientific rigor and scalability of potential environmental technology investments.
 
 ### Featured Projects
 [Natural Product Classifier](https://github.com/Meir-Alelov/Natural-Product-Classifier) - Gradient Boosting Classifier which accurately predicts the ontology of unknown natural products. This tool provides key insights into experimental procedures catered toward drug discovery, and can therefore significantly increase efficiency of drug discovery pipelines.
