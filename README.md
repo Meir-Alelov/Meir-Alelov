@@ -4,6 +4,8 @@
 
 ## Hello, hello! 👋
 
+I'm Meir
+
 I'm passionate about deploying innovative environmental tech to catalyze a shift in the world for a more sustainable, harmonious, and resilient future. 
 
 I hold a Bachelor of Science degree from Brandeis University in Neuroscience, as well as a Bachelor of Arts degree in Theater Arts.
