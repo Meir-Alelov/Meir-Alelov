@@ -4,7 +4,7 @@
 
 ## Hello, hello! 👋
 
-I'm Meir!
+I'm Meir
 
 I'm passionate about deploying innovative environmental tech to catalyze a shift in the world for a more sustainable, harmonious, and resilient future. 
 
